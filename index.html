@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ricerca Opportunità Lavorative</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <h1>Ricerca Offerte di Lavoro</h1>
+    </header>
+
+    <main>
+        <label for="jobTitle">Titolo Lavorativo:</label>
+        <input type="text" id="jobTitle">
+
+        <label for="jobLocation">Posizione Geografica:</label>
+        <input type="text" id="jobLocation">
+
+        <button onclick="eseguiRicerca()">Cerca</button>
+
+        <ul id="risultatiLista"></ul>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+
+</html>

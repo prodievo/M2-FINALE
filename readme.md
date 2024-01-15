@@ -1,0 +1,3 @@
+Ciao! Purtroppo nella prima parte del corso ho avuto diverse complicazioni di carattere lavorativo e universitario che mi hanno spinto anche a considerare l'idea di abbandonare il corso. Mi è stato però comunicato che non avrei ricevuto un rimborso quindi mi sono rimboccato le maniche e ho cercato di recuperare tutto e ho consegnato più o meno anche alcuni esercizi del modulo 2 in questi giorni (non tutti perché altrimenti non sarei riuscito a finire questo e a breve ho anche un esame universitario), mi scuso per eventuali errori nell'uso di Github e spero di aver rispettato le istruzioni :)
+
+-Luca
